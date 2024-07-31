@@ -1,0 +1,103 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Android
+android/.gradle
+android/app/build/
+android/app/app.iml
+android/.idea/
+android/local.properties
+android/.idea/
+android/*/local.properties
+android/captures/
+android/output.json
+*.iml
+*.hprof
+*.orig
+.gradle/
+build/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace
+*.hmap
+*.ipa
+.carthage/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Buck
+buck-out/
+\.buckconfig.local
+\.buckconfig.macros
+
+# Xcode
+*.xccheckout
+*.xcuserstate
+
+# React Native
+*.hprof
+*.hmap
+*.ipa
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.tbd
+.expo/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Metro Bundler
+.expo/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Prettier
+.prettier/
+
+# Eslint
+.eslintcache
+
+# Miscellaneous
+*.log
+*.lock
+*.patch
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.DS_Store
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+*.swm
